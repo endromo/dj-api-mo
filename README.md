@@ -16,3 +16,9 @@ Run the development web server:
 python manage.py runserver 8080
 ```
 Open the URL http://localhost:8080/ to access the application.
+
+## Dev By
+```
+endro.mono9@ gmail .com
+```
+
