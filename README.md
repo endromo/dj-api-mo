@@ -1,5 +1,4 @@
-# dj-api-mo
-dj-api-mo
+# Django RestApi with MongoDB
 
 ## Running the Application
 
